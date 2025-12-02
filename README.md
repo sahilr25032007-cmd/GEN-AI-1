@@ -1,0 +1,2 @@
+# GEN-AI-1
+GEN AI CMD 
